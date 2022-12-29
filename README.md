@@ -30,7 +30,7 @@
 </div>
   
   ##  
- <div align="center">Vamos nos Conectar? || Let's get Conected??</div>
+ <div align="center">Vamos nos Conectar? || Let's get Connected??</div>
   <br>
  <div align="center">
   
